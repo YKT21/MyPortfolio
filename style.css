@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("image/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg");
+    background-image: url("image/michael-dziedzic-unsplash.jpg");
     background-repeat: no-repeat;
     background-size:cover; 
     background-position: center;
@@ -51,7 +51,7 @@ h1{
 }
 /*Projects Page*/
 #second-page{
-    background-image: url(image/tofan-teodor-rKZ3-KUrWmU-unsplash.jpg);
+    background-image: url(image/tofan-teodor-unsplash.jpg);
 }
 main{
     margin: auto;
